@@ -6,7 +6,8 @@ Original code by [Nathally Souza](https://github.com/nathyts/).
 
 ## About project
 
-Integration between a frontend in React and a REST API developed in Node.js.
+Integration between a frontend in React and a REST API developed in Node.js.  
+contato.js page was implemented to send message to API and show all messages on screen.
 
 ## References
 
